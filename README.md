@@ -19,6 +19,8 @@ The Node.js project uses an [open governance model](./GOVERNANCE.md). The
 
 # Table of Contents
 
+[![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/node.svg)](https://www.guardrails.io)
+
 * [Support](#support)
 * [Release Types](#release-types)
   * [Download](#download)
